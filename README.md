@@ -1,8 +1,3 @@
-<!--
-README de perfil GitHub - codebykaua
-Tema: estilo pixel/block game inspirado em construção, evolução e projetos
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2EA043,100:7CFC00&height=230&section=header&text=CODEBYKAUA&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Building%20my%20dev%20world%20one%20block%20at%20a%20time&descSize=16&descAlignY=57&animation=fadeIn" />
